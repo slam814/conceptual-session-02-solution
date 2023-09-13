@@ -17,4 +17,23 @@
       width: 100%;
       text-align: center;
     }
+/* Nav Responsiv ends */
+.banner-container{
+  flex-direction: column;
 }
+.banner-text, .banner-img{
+margin-top: 20px;
+  width: 100%;
+}
+.banner-text h1{
+  font-size: 30px;
+}
+.banner-text p{
+  font-size: 20px;
+}
+.fa-brands{
+  font-size: 30px;
+}
+}
+
+
